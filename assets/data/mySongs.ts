@@ -7,7 +7,7 @@ export const SONG:songsInfo[] =
     artist: 'Sidhu Moosewala',
     genre: 'Rock',
     release: '2019',
-    image: '../../assets/images/Sidhu.jpg'
+    image: 'assets/images/Sidhu.jpg'
   },
 
   {
