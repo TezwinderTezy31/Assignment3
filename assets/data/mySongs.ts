@@ -15,7 +15,7 @@ export const SONG:songsInfo[] =
     artist: 'Sucha Yaar',
     genre: 'Rock',
     release: '2019',
-    image: 'assets/images/suchayaar.jpg'
+    image: '../../assets/images/suchayaar.jpg'
   },
 
   {
